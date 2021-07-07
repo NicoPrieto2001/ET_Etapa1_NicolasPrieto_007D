@@ -1,0 +1,30 @@
+#body
+{
+    background-image:url('../Media/periodismo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+   
+}
+.titulos{
+    color: black;
+}
+
+.fakeimg{
+    color: slategrey;
+    aspect-ratio: initial;
+    background-attachment: fixed;
+    width: 100%;
+    height: auto;
+}
+
+.colorido{
+    color:thistle;
+    box-shadow: turquoise;
+    background-color: rgb(56, 57, 55);
+}
+
+#h1{
+    color: white;
+}
